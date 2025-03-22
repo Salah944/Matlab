@@ -1,0 +1,48 @@
+h1{
+    color: rgb(137, 79, 79);
+    size: 30px;
+    background-color: rgb(59, 13, 13);
+    width: 260px;
+    border: 2px solid rgb(3, 3, 3);
+    border-radius: 8px;
+    border-style:dotted;
+    size: 80px;
+}
+#img1 {
+    display: auto;
+    border: 7px solid #bb6060;
+    border-radius: 10px;
+    padding: 7px;
+    width: 300px;
+   
+  }
+  #img2 {
+    margin-left: 75%;
+    margin-bottom: 90%;
+    display: auto;
+    border: 7px solid #bb6060;
+    border-radius: 10px;
+    padding: 7px;
+    width: 300px;
+   
+  }
+  
+body{
+    background-color: rgb(112, 62, 62);
+    background-repeat: no-repeat, repeat;
+    background-size: 40%;
+}
+#grad1{
+    text-align: left;
+}
+a{
+    color: black;
+}
+div {
+    font-family: "Lucida Console", "Courier New", monospace;
+    width: 150px;
+    border: 5px solid rgb(78, 30, 30);
+    border-style:dotted;
+    border-radius: 15px;
+   
+  }
